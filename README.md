@@ -1,5 +1,7 @@
 # hamester_kombat_bot
+
 hamester_kombat_auto chrome extension mine bot auto boost,earn task, daily combo, daily cipher,upgrade, create wallet and connect wallet
+![WechatIMG38](https://github.com/qiming97/hamester_kombat_bot/assets/58248658/2ebe3bb4-175f-42e8-84fd-289d6c2069d4)
 
 # installation
 ## use ads powser or else fp browser load this extension.
