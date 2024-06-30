@@ -6,7 +6,7 @@ hamester_kombat_auto chrome extension mine bot auto boost,earn task, daily combo
 
 ## features
 
-### auto start game when telegram page opened, bypass platform limited
+### auto start game when telegram page opened, bypass limitation of web platform
 ###
 
 1.auto daily cipher
