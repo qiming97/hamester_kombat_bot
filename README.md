@@ -24,3 +24,6 @@ hamester_kombat_auto chrome extension mine bot auto boost,earn task, daily combo
 
 # contact
 telegram: @z13035341
+
+###
+Undertake all kinds of JS encryption/decryption work, if you have relevant needs, you can contact me :):):)
