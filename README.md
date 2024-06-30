@@ -19,7 +19,7 @@ hamester_kombat_auto chrome extension mine bot auto boost,earn task, daily combo
 
 5.auto upgrade
 
-6.auto create wallet and connect(Provide self-hosted create wallet backend api source)
+6.auto create wallet and connect(Provide self-hosted create wallet backend api source code)
 
 
 # contact
